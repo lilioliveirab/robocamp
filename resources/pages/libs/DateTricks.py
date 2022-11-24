@@ -6,7 +6,7 @@ class DateTricks():
         today = date.today()
 
         # mm/dd/yyyy
-        fdate = today.strftime('%m%d%Y')
+        fdate = today.strftime('%d%m%Y')
 
         print(fdate)
 
