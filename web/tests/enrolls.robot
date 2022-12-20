@@ -4,6 +4,8 @@ Documentation        Suite de testes de matrícula de alunos
 
 Resource        ../resources/base.resource
 
+Test Teardown    Take Screenshot
+
 *** Test Cases ***
 
 Deve matricular um aluno
