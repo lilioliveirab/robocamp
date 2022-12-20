@@ -1,0 +1,13 @@
+{
+    "student": {
+        "name": "Lilian Barros",
+        "email": "lilian@smartbit.com",
+        "age": "26",
+        "feet_tall": 1.55,
+        "weight": 56
+    },
+    "enroll":{
+        "plan": "Smart"
+    },
+    "help": "Como faço para ganhar massa muscular?"
+}
